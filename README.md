@@ -7,16 +7,16 @@
 ## Contact
 
 - Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Phone: **+86 13620166150**
 - Site: **<https://wu-kan.cn>**
 
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[akiehans@gmail.com](mailto:i@wu-kan.cn)**
+  - **[1049290126@qq.com](mailto:wukan3@mail2.sysu.edu.cn)**
+- WeChat: **glhf42526162**
+- QQ: **1049290126**
 
 <!-- .slide -->
 
@@ -24,9 +24,9 @@
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+Computer Science and Technology, Dalian University of Technology, Dalian
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
+- Bachelor of Computer Science and Technology, Sept. 2016 - Jul. 2020
   - Principle of Supercomputer
   - Parallel and Distributed Computing
   - High Performance Computing
